@@ -1,5 +1,5 @@
 # Data Analysis: Coronavirus and Crimes at New York City
-By Luis Lu and Yuki Nishimura
+3/26/2020
 
 Unfortunately there is currently never a day where coronavirus is not on the news. The coronavirus has been putting the lives and health of people around the world at risk, causing secondary disasters such as economic decline.
 
@@ -29,3 +29,7 @@ The analysis we conduct are the following:
 - Difference in the total number of burglary and robbery cases during March 1st to 22nd, of the years 2018~2020
 - Difference in the daily number of burglary and robbery cases during March 1st to 22nd, in 2020
 - Concentration of the location of burglary and robbery cases during March 1st to 22nd, of the years 2018~2020
+
+We greatly hope this analysis will help people in any way.
+
+By Luis Lu and Yuki Nishimura
