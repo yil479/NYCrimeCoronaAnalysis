@@ -1,4 +1,6 @@
 # Data Analysis: Coronavirus and Crimes at New York City
+By Luis Lu and Yuki Nishimura
+
 Unfortunately there is currently never a day where coronavirus is not on the news. The coronavirus has been putting the lives and health of people around the world at risk, causing secondary disasters such as economic decline.
 
 Recently there have been news regarding another type of secondary disaster: coronavirus scams. These malicious crimes are targeted toward vulnerable people by using the coronavirus as a way of threatening people, and this is just agonizing.
@@ -16,11 +18,12 @@ Robbery - the action of taking property unlawfully from a person or place by for
 
 We have 4 reasons why we chose these 2 crimes:
 
-When the economy is declining, burglary and robbery seem to be crimes that are likely to increase
-There were higher demands for necessity goods, with stores having sold out items, which may also increase the number of cases for burglary and robbery for necessity goods
-Robbery may occur in parallel with coronavirus scams (according to the news)
-Availability of data
+- When the economy is declining, burglary and robbery seem to be crimes that are likely to increase
+- There were higher demands for necessity goods, with stores having sold out items, which may also increase the number of cases for burglary and robbery for necessity goods
+- Robbery may occur in parallel with coronavirus scams (according to the news)
+- Availability of data  
 ->Able to collect all of the burglary and robbery cases during March 1st to 22nd for the years 2018~2020 in NYC from SpotCrime (https://spotcrime.com/ny/new+york)
+
 The analysis we conduct are the following:
 
 - Difference in the total number of burglary and robbery cases during March 1st to 22nd, of the years 2018~2020
