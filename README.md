@@ -21,15 +21,15 @@ We have 4 reasons why we chose these 2 crimes:
 - There were higher demands for necessity goods, with stores having sold out items, which may also increase the number of cases for burglary and robbery for necessity goods
 - Robbery may occur in parallel with coronavirus scams (according to the news)
 - Availability of data  
-->Able to collect all of the burglary and robbery cases during March 1st to 22nd for the years 2018~2020 in NYC from SpotCrime (https://spotcrime.com/ny/new+york)
+->Able to collect all of the burglary and robbery cases during March 2nd to April 12th for the years 2018~2020 in NYC from SpotCrime (https://spotcrime.com/ny/new+york)
 
 The analysis we conduct are the following:
 
-- Difference in the total number of burglary and robbery cases during March 1st to 22nd, of the years 2018~2020
-- Difference in the daily number of burglary and robbery cases during March 1st to 22nd, in 2020
-- Concentration of the location of burglary and robbery cases during March 1st to 22nd, of the years 2018~2020
+- Difference in the total number of burglary and robbery cases during March 2nd to April 12th, of the years 2018~2020
+- Difference in the daily number of burglary and robbery cases during March 2nd to April 12th, in 2020
+- Concentration of the location of burglary and robbery cases during March 2nd to April 12th, of the years 2018~2020
 
 We greatly hope this analysis will help people in any way.
 
 By Luis Lu and Yuki Nishimura  
-3/27/2020
+4/19/2020
