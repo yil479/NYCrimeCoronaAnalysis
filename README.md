@@ -1,4 +1,4 @@
-# Data Analysis: Coronavirus and Crimes at New York City
+# Data Analysis: Coronavirus and Crimes in New York City
 
 Unfortunately there is currently never a day where coronavirus is not on the news. The coronavirus has been putting the lives and health of people around the world at risk, causing secondary disasters such as economic decline.
 
