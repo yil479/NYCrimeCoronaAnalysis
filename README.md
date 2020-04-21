@@ -32,4 +32,4 @@ The analysis we conduct are the following:
 We greatly hope this analysis will help people in any way.
 
 By Luis Lu and Yuki Nishimura  
-4/19/2020
+4/20/2020
