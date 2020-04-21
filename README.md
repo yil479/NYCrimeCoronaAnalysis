@@ -29,7 +29,7 @@ The analysis we conduct are the following:
 - Difference in the daily number of burglary and robbery cases during March 2nd to April 12th, in 2020
 - Concentration of the location of burglary and robbery cases during March 2nd to April 12th, of the years 2018~2020
 
-We greatly hope this analysis will help people in any way.
+We hope this knowledge can support people and businesses understand which crimes they should look out for more, which may help prevent additional crimes.
 
 By Luis Lu and Yuki Nishimura  
 4/20/2020
